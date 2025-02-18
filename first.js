@@ -175,3 +175,9 @@ let object = {name : "heera",
   oBjECT.color = "pink";
   oBjECT.car = "mustang"
   console.log(oBjECT.car);
+
+  function  myFucking_bitch()
+  {
+    let click =document.getElementById("demo").innerHTML;
+    console.log(click);
+  }
